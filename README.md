@@ -2,7 +2,7 @@
 ## Açıklama
 Ziyaretcilerin ve üyelerin bloglar oluşturup birbirlerinin bloglarını puanlayıp yorum yapmasını sağlayan, Laravel web uygulama iskeleti ile oluşturulmuş bir websitesidir
 ## Frontend
-frontend.png
+![Screenshot](frontend.png)
 ## Backend
-backend.png
+![Screenshot](backend.png)
 
