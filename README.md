@@ -14,4 +14,4 @@ Ziyaretcilerin ve üyelerin bloglar oluşturup birbirlerinin bloglarını puanla
 - php artisan key:generate
 - php artisan storage:link
 - php artisan serve
-- > http://127.0.0.1:8000/
+- http://127.0.0.1:8000/
