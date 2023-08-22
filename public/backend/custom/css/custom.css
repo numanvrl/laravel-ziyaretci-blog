@@ -1,0 +1,16 @@
+.sortable {
+    cursor: -webkit-grab; cursor: grab;
+}
+
+a.disabled {
+    pointer-events: none;
+    cursor:cell;
+}
+/* CSS Libraries Used 
+
+*Animate.css by Daniel Eden.
+*FontAwesome 4.7.0
+*Typicons
+
+*/
+
