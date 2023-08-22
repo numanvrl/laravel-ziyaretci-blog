@@ -1,2 +1,2 @@
 # laravel-ziyaretci-blog
-Ziyaretcilerin ve üyelerin bloglar oluşturup birbirlerini puanlayıp yorum yapmasını sağlayan laravel framworkü ile oluşturulmuş bir websitesi
+Ziyaretcilerin ve üyelerin bloglar oluşturup birbirlerinin bloglarını puanlayıp yorum yapmasını sağlayan, Laravel web uygulama iskeleti ile oluşturulmuş bir websitesidir
