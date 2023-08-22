@@ -1,2 +1,8 @@
-# laravel-ziyaretci-blog
+# Laravel 8 ile yapılmış Ziyaretci Blog
+## Açıklama
 Ziyaretcilerin ve üyelerin bloglar oluşturup birbirlerinin bloglarını puanlayıp yorum yapmasını sağlayan, Laravel web uygulama iskeleti ile oluşturulmuş bir websitesidir
+## Frontend
+/frontend.png
+## Backend
+/backend.png
+
