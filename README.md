@@ -6,7 +6,7 @@ Ziyaretcilerin ve üyelerin bloglar oluşturup birbirlerinin bloglarını puanla
 ## Backend
 ![Screenshot](backend.png)
 ## Yükleme Adımları
-- git clone [https://github.com/numanvrl/laravel-ziyaretci-blog.git]
+- git clone https://github.com/numanvrl/laravel-ziyaretci-blog.git
 - cd laravel-ziyaretci-blog
 - composer install or composer update
 - cp .env.example .env
